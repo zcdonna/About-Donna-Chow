@@ -173,14 +173,16 @@ section {
   text-align: center;
 }
 
-.section-text p {
+.section-text p1 {
   font-weight: 600;
+  padding-bottom: 20px;
 }
 
 .section-text-p2 {
   text-align: center;
   font-size: 1.75rem;
   margin-bottom: 1rem;
+  padding-bottom: 20px;
 }
 
 .title {
@@ -193,6 +195,7 @@ section {
   justify-content: center;
   margin-top: 1rem;
   gap: 1rem;
+  padding: 10px;
 }
 
 /*ICONS*/
